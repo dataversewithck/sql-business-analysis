@@ -99,7 +99,6 @@ For example, the October 2024 cohort shows:
 | Month 6 | 15.38% |
 | Month 12 | 12.50% |
 
-
 Insight
 The largest retention drop occurs during the first 30–60 days after the initial purchase.
 This indicates that early customer engagement is a critical opportunity for improving lifetime customer value.
