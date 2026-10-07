@@ -61,33 +61,52 @@ erDiagram
 | `OrderItems` | Products, quantities, and selling prices for each order |
 | `Products` | Product names, categories, costs, and list prices |
 
-📈 Key Findings
-1. Revenue by Customer Segment
+# 📈 Key Findings
+
+## 1. Revenue by Customer Segment
+
 | Segment | Customers | Orders | Revenue | Revenue Share |
 |---|---:|---:|---:|---:|
 | Consumer | 1,217 | 3,787 | $3.10M | **48.74%** |
 | Small Business | 730 | 2,358 | $1.96M | **30.79%** |
 | Corporate | 491 | 1,607 | $1.30M | **20.47%** |
 
+### 💡 Insight
 
-Insight
-The Consumer segment generates the largest share of revenue at 48.74%.
-However, average order values are relatively similar across segments, ranging from approximately $810 to $831. This suggests that the Consumer segment's revenue leadership is driven primarily by customer and order volume rather than significantly higher order value.
-2. Monthly Revenue Trend
+The **Consumer segment generates the largest share of revenue at 48.74%**.
+
+Average order values are relatively similar across the three segments, suggesting that the Consumer segment's revenue leadership is driven primarily by customer and order volume rather than significantly higher order value.
+
+---
+
+## 2. Monthly Revenue Trend
+
 Monthly revenue increased from approximately:
-$85.6K in October 2024 → $387.3K in September 2026
-The overall trend is positive, although several months experienced short-term declines, including February, March, and May 2026.
-Insight
+
+**$85.6K in October 2024 → $387.3K in September 2026**
+
+The overall trend is positive, although several months experienced short-term declines, including **February, March, and May 2026**.
+
+### 💡 Insight
+
 The business demonstrates strong long-term revenue growth while still experiencing month-to-month volatility.
-This creates an opportunity to investigate:
-- Seasonal effects
+
+Potential areas for further investigation include:
+
+- Seasonality
 - Customer acquisition trends
-- Product/category performance
-- Changes in repeat purchasing
-- Channel performance
-3. Customer Cohort Retention
+- Product and category performance
+- Repeat purchasing
+- Sales channel performance
+
+---
+
+## 3. Customer Cohort Retention
+
 The cohort analysis tracks the percentage of customers who make another completed purchase after their first purchase.
-For example, the October 2024 cohort shows:
+
+For example, the **October 2024 cohort** shows:
+
 | Cohort Month | Retention |
 |---|---:|
 | Month 0 | 100.00% |
@@ -99,36 +118,56 @@ For example, the October 2024 cohort shows:
 | Month 6 | 15.38% |
 | Month 12 | 12.50% |
 
-Insight
-The largest retention drop occurs during the first 30–60 days after the initial purchase.
-This indicates that early customer engagement is a critical opportunity for improving lifetime customer value.
-4. High-Value Customers
-The top customer in the analysis generated:
-- $18,866 lifetime revenue
-- 10 orders
-- $1,886.60 average order value
+### 💡 Insight
+
+The largest retention drop occurs during the **first 30–60 days after the initial purchase**.
+
+This indicates that early customer engagement is a critical opportunity for improving repeat purchases and customer lifetime value.
+
+---
+
+## 4. High-Value Customers
+
+The highest-value customer in the analysis generated:
+
+- **$18,866 lifetime revenue**
+- **10 orders**
+- **$1,886.60 average order value**
+
+### 💡 Insight
+
 High-value customers represent an important opportunity for targeted retention and loyalty initiatives.
+
 Potential strategies include:
-- VIP/loyalty programs
-- Personalized recommendations
+
+- VIP or loyalty programs
+- Personalized product recommendations
 - Early access to products
 - Targeted promotions
 - High-value customer retention campaigns
-5. Top Product Performance
-Several products demonstrate significant revenue contribution.
-Examples from the analysis include:
-Category	Product	Revenue
-Electronics	Product 112	$252,894
-Lifestyle	Product 080	$251,574
 
+---
 
-Insight
-High-performing products can be used to support:
+## 5. Top Product Performance
+
+Examples of high-performing products include:
+
+| Category | Product | Revenue |
+|---|---|---:|
+| Electronics | Product 112 | **$252,894** |
+| Lifestyle | Product 080 | **$251,574** |
+
+### 💡 Insight
+
+High-performing products can support:
+
 - Inventory planning
 - Cross-selling
 - Promotional campaigns
 - Category strategy
 - Product assortment decisions
+
+---
 💡 Business Recommendations
 Based on the analysis, the following actions are recommended:
 1. Improve first 30–60 day retention
