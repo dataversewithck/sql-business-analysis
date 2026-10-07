@@ -63,10 +63,11 @@ erDiagram
 
 📈 Key Findings
 1. Revenue by Customer Segment
-Segment	Customers	Orders	Revenue	Revenue Share
-Consumer	1,217	3,787	$3.10M	48.74%
-Small Business	730	2,358	$1.96M	30.79%
-Corporate	491	1,607	$1.30M	20.47%
+| Segment | Customers | Orders | Revenue | Revenue Share |
+|---|---:|---:|---:|---:|
+| Consumer | 1,217 | 3,787 | $3.10M | **48.74%** |
+| Small Business | 730 | 2,358 | $1.96M | **30.79%** |
+| Corporate | 491 | 1,607 | $1.30M | **20.47%** |
 
 
 Insight
@@ -87,15 +88,16 @@ This creates an opportunity to investigate:
 3. Customer Cohort Retention
 The cohort analysis tracks the percentage of customers who make another completed purchase after their first purchase.
 For example, the October 2024 cohort shows:
-Cohort Month	Retention
-Month 0	100.00%
-Month 1	42.31%
-Month 2	30.77%
-Month 3	26.92%
-Month 4	23.08%
-Month 5	16.35%
-Month 6	15.38%
-Month 12	12.50%
+| Cohort Month | Retention |
+|---|---:|
+| Month 0 | 100.00% |
+| Month 1 | 42.31% |
+| Month 2 | 30.77% |
+| Month 3 | 26.92% |
+| Month 4 | 23.08% |
+| Month 5 | 16.35% |
+| Month 6 | 15.38% |
+| Month 12 | 12.50% |
 
 
 Insight
@@ -161,20 +163,36 @@ High-revenue products should receive additional attention in:
 - Availability monitoring
 - Cross-sell strategies
 - Promotional planning
-🖼️ Analysis Results
-Database Structure
- 
-Executive KPIs
- 
-Revenue by Segment
- 
-Monthly Revenue Trend
- 
-Cohort Retention
- 
-Top Customers
- 
-Top Products
+  
+# 🖼️ Analysis Results
+
+## Database Structure
+
+![Database Structure](results/01_database_structure.png)
+
+## Executive KPIs
+
+![Executive KPIs](results/02_executive_kpis.png)
+
+## Revenue by Segment
+
+![Revenue by Segment](results/03_revenue_by_segment.png)
+
+## Monthly Revenue Trend
+
+![Monthly Revenue Trend](results/04_monthly_revenue_trend.png)
+
+## Cohort Retention
+
+![Cohort Retention](results/05_cohort_retention.png)
+
+## Top Customers
+
+![Top Customers](results/06_top_customers.png)
+
+## Top Products
+
+![Top Products](results/07_top_products.png)
  
 🧮 SQL Techniques Demonstrated
 This project demonstrates practical SQL Server and T-SQL techniques including:
