@@ -1,0 +1,20 @@
+name: SQL Project File Check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required files
+        run: |
+          test -f README.md
+          test -f sql/01_create_database.sql
+          test -f sql/02_create_schema.sql
+          test -f sql/03_seed_data.sql
+          test -f sql/04_validation_checks.sql
+          test -f sql/analysis/05_cohort_retention.sql
+          echo "SQL portfolio project structure validated."
